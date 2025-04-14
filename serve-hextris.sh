@@ -5,4 +5,4 @@ systemctl start httpd
 
 yum install -y git
 cd /var/www/html
-git clone https://github.com/Hextris/hextris
+git clone https://github.com/Hextris/hextris .
